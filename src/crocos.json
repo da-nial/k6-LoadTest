@@ -1,0 +1,54 @@
+{
+    "crocodiles": [
+        {
+            "name": "Allie",
+            "sex": "M",
+            "date_of_birth": "2022-01-21"
+        },
+        {
+            "name": "Scully",
+            "sex": "M",
+            "date_of_birth": "2022-01-27"
+        },
+        {
+            "name": "Swampy",
+            "sex": "M",
+            "date_of_birth": "2022-01-22"
+        },
+        {
+            "name": "Nola",
+            "sex": "F",
+            "date_of_birth": "2022-01-21"
+        },
+        {
+            "name": "Ula",
+            "sex": "F",
+            "date_of_birth": "2022-01-21"
+        },
+        {
+            "name": "Bodie",
+            "sex": "M",
+            "date_of_birth": "2022-05-11"
+        },
+        {
+            "name": "Cinnie",
+            "sex": "F",
+            "date_of_birth": "2022-01-21"
+        },
+        {
+            "name": "Fiacra",
+            "sex": "F",
+            "date_of_birth": "2022-01-23"
+        },
+        {
+            "name": "Jojo",
+            "sex": "M",
+            "date_of_birth": "2020-01-23"
+        },
+        {
+            "name": "Chomp",
+            "sex": "M",
+            "date_of_birth": "2019-05-23"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "username": "danialz",
+            "password": "REDACTED_PASSWORD"
+        },
+        {
+            "username": "invaliduser",
+            "password": "password"
+        }
+    ]
+}
